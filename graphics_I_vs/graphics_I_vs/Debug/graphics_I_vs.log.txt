@@ -1,0 +1,2 @@
+﻿  graphics_I_vs.vcxproj -> C:\Users\Samuel Tavares\Documents\Documentos Uni 16_17\Grafics\GLUT_boilerplate\graphics_I_vs\Debug\01-BoilerPlate.exe
+  graphics_I_vs.vcxproj -> C:\Users\Samuel Tavares\Documents\Documentos Uni 16_17\Grafics\GLUT_boilerplate\graphics_I_vs\Debug\01-BoilerPlate.pdb (Full PDB)

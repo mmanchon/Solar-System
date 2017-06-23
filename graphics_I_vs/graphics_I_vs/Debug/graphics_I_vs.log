@@ -1,0 +1,5 @@
+﻿  main.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  graphics_I_vs.vcxproj -> C:\Users\Manel Manchon\Desktop\Grafics earth\graphics_I_vs\graphics_I_vs\Debug\01-BoilerPlate.exe
+  graphics_I_vs.vcxproj -> C:\Users\Manel Manchon\Desktop\Grafics earth\graphics_I_vs\graphics_I_vs\Debug\01-BoilerPlate.pdb (Full PDB)
